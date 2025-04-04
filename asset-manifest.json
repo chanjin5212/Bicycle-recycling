@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bicycle-recycling/static/css/main.f855e6bc.css",
+    "main.js": "/Bicycle-recycling/static/js/main.ae3662b9.js",
+    "static/js/453.5262725e.chunk.js": "/Bicycle-recycling/static/js/453.5262725e.chunk.js",
+    "index.html": "/Bicycle-recycling/index.html",
+    "main.f855e6bc.css.map": "/Bicycle-recycling/static/css/main.f855e6bc.css.map",
+    "main.ae3662b9.js.map": "/Bicycle-recycling/static/js/main.ae3662b9.js.map",
+    "453.5262725e.chunk.js.map": "/Bicycle-recycling/static/js/453.5262725e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ae3662b9.js"
+  ]
+}
